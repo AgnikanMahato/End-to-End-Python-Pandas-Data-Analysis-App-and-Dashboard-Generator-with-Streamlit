@@ -1,7 +1,5 @@
 # End-to-End-Python-Pandas-Data-Analysis-App-and-Dashboard-Generator-with-Streamlit:
 
-# How to Build a Pandas Data Analysis Dashboard with Streamlit | Master Data Visualization: Python Pandas & Streamlit Dashboard
-
 # Project Overview
 This project showcases the development of an interactive dashboard that leverages the power of Pandas for data analysis and Streamlit for creating an engaging web application. It’s tailored for exploring customer datasets, understanding trends, and making data-driven decisions.
 
